@@ -3,6 +3,7 @@ It is a backend for  discussion forum web application. this project allow users 
 Task Breakup Create an Account & login Flow,
 Name Email OTP verification,
 Post posts for discussions Only text allows,
+
 for post User Can Comment on posts Only text format allow,
 Reply to comments Only text format allow,
 Send Email to respective users If the user posts: Email: "Congrats your post is live now",
